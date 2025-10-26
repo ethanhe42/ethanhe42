@@ -1,1 +1,1 @@
-I'm an engineer at x.ai working on AI, focusing on multimodal models and video generation. 
+I'm an engineer at [x.ai](https://x.ai/), focusing on multimodal models and video generation. 
