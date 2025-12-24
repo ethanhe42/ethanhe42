@@ -7,8 +7,8 @@ I'm an engineer at [xAI](x.ai) focusing on multimodal, video generation and worl
 - [NeMo](https://github.com/NVIDIA-NeMo/NeMo): scalable training framework for LLMs transformers
 - [ActGPT](https://x.com/EthanHe_42/status/1617328366876786688?s=20): browser-use agent
 - [Channel Pruning](https://github.com/ethanhe42/channel-pruning): Accelerating Very Deep Neural Networks (ICCV'17)
-- [KL Loss](https://github.com/ethanhe42/KL-Loss): Accurate Object Detection (CVPR'19)
 - [Epipolar Transformers](https://github.com/ethanhe42/epipolar-transformers): Accurate multi-camera pose understanding (CVPR'20)
 - [AMC](https://github.com/mit-han-lab/amc): AutoML for model compression (ECCV'18)
-🌟collection
-- [Grok Heavy Tungsten Cube](https://x.com/EthanHe_42/status/1979430817576448140?s=20)
+- [KL Loss](https://github.com/ethanhe42/KL-Loss): Accurate Object Detection (CVPR'19)
+- [FSAF](https://github.com/open-mmlab/mmdetection/tree/main/configs/fsaf): single-shot object detection (CVPR'19)
+- 🤓[Grok Heavy Tungsten Cube](https://x.com/EthanHe_42/status/1979430817576448140?s=20)
