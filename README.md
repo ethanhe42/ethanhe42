@@ -1,4 +1,4 @@
-I'm an engineer at [xAI](x.ai) focusing on multimodal, video generation and world models ([Grok Imagine v0.9](https://x.com/EthanHe_42/status/1975611349662322967?s=20)).
+I'm an engineer at [xAI](https://x.ai/) focusing on multimodal, video generation and world models ([Grok Imagine v0.9](https://x.com/EthanHe_42/status/1975611349662322967?s=20)).
 
 🤗Open Source Projects:
 - [Cosmos](https://github.com/NVIDIA/Cosmos): state-of-the-art generative world models
